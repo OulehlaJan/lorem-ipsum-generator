@@ -54,7 +54,7 @@ A quick look at the structure of this project.
     │   ├───index.html
     │   ├───manifest.json
     │   └───robots.txt
-    └── src
+    ├── src
     │    ├───App.js
     │    ├───data.js
     │    ├───index.css
