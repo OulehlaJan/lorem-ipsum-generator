@@ -1,8 +1,11 @@
+<h1 align="center">Jan Oulehla</h1>
+<p align="center">Creative Front-End Web Developer</p>
+
 # :rocket: Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## :unlock: Available Scripts
 
 In the project directory, you can run:
 
@@ -37,7 +40,7 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 npm run eject
 ```
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+> **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
 If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
@@ -64,7 +67,7 @@ A quick look at the structure of this project.
     ├───package.json
     └───README.md
 
-## Learn More
+## :v: Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
