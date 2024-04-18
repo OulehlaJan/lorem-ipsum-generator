@@ -8,7 +8,7 @@
 <p align="center">Creative Front-End Web Developer</p>
 
 # :computer: Demo
-[Lorem Ipsum-Generator App](https://lorem-ipsum-generator-oulehlajan.netlify.app/)
+[Lorem Ipsum Generator App](https://lorem-ipsum-generator-oulehlajan.netlify.app/)
 
 # :rocket: Getting Started with Create React App
 
