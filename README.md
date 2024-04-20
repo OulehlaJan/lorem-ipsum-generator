@@ -1,8 +1,4 @@
-![NPM version][npm-image]
-![NPM download][download-image]
-
-[npm-image]: https://img.shields.io/npm/v/lorem-ipsum-generator.svg?style=flat-square
-[download-image]: https://img.shields.io/npm/dm/lorem-ipsum-generator.svg?style=flat-square
+![NPM Version](https://img.shields.io/npm/v/lorem-ipsum-generator?style=for-the-badge)
 
 <h1 align="center">Jan Oulehla</h1>
 <p align="center">Creative Front-End Web Developer</p>
