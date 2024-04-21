@@ -1,4 +1,3 @@
-![NPM Version](https://img.shields.io/npm/v/lorem-ipsum-generator?style=for-the-badge)
 ![GitHub License](https://img.shields.io/github/license/oulehlajan/lorem-ipsum-generator?style=for-the-badge)
 
 <!-- Created by, animated text -->
