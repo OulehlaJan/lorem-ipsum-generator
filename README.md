@@ -10,7 +10,7 @@
 
 # :computer: Demo
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c7cbd9e5-6028-43f7-8d1b-98b139b8d924/deploy-status)](https://app.netlify.com/sites/lorem-ipsum-generator-oulehlajan/deploys) <br />
-[Lorem Ipsum Generator App](https://lorem-ipsum-generator-oulehlajan.netlify.app/):point_left:
+[Lorem Ipsum Generator](https://lorem-ipsum-generator-oulehlajan.netlify.app/):point_left:
 
 # :rocket: Getting Started with Create React App
 
